@@ -88,5 +88,95 @@
     "city": "Portland",
     "birthDate": "October 5, 2000",
     "education": "Bachelors"
+  },
+  {
+    "id": "11",
+    "name": "Liam",
+    "age": 28,
+    "gender": "Male",
+    "city": "Houston",
+    "birthDate": "June 12, 1995",
+    "education": "Bachelors"
+  },
+  {
+    "id": "12",
+    "name": "Emma",
+    "age": 29,
+    "gender": "Female",
+    "city": "Philadelphia",
+    "birthDate": "September 25, 1992",
+    "education": "Masters"
+  },
+  {
+    "id": "13",
+    "name": "Noah",
+    "age": 26,
+    "gender": "Male",
+    "city": "Phoenix",
+    "birthDate": "August 19, 1997",
+    "education": "Bachelors"
+  },
+  {
+    "id": "14",
+    "name": "Isabella",
+    "age": 30,
+    "gender": "Female",
+    "city": "San Diego",
+    "birthDate": "December 3, 1991",
+    "education": "PhD"
+  },
+  {
+    "id": "15",
+    "name": "Ethan",
+    "age": 25,
+    "gender": "Male",
+    "city": "Dallas",
+    "birthDate": "March 8, 1998",
+    "education": "Bachelors"
+  },
+  {
+    "id": "16",
+    "name": "Mia",
+    "age": 27,
+    "gender": "Female",
+    "city": "Atlanta",
+    "birthDate": "July 16, 1994",
+    "education": "Masters"
+  },
+  {
+    "id": "17",
+    "name": "Alexander",
+    "age": 32,
+    "gender": "Male",
+    "city": "Detroit",
+    "birthDate": "October 29, 1989",
+    "education": "Bachelors"
+  },
+  {
+    "id": "18",
+    "name": "Avery",
+    "age": 24,
+    "gender": "Female",
+    "city": "Minneapolis",
+    "birthDate": "February 9, 1999",
+    "education": "Bachelors"
+  },
+  {
+    "id": "19",
+    "name": "James",
+    "age": 31,
+    "gender": "Male",
+    "city": "Seattle",
+    "birthDate": "May 1, 1992",
+    "education": "Masters"
+  },
+  {
+    "id": "20",
+    "name": "Ella",
+    "age": 23,
+    "gender": "Female",
+    "city": "Chicago",
+    "birthDate": "November 17, 2000",
+    "education": "Bachelors"
   }
 ]
