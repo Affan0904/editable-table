@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "John",
+    "age": 25,
+    "gender": "Male",
+    "city": "New York",
+    "birthDate": "April 7, 1998",
+    "education": "Bachelors"
+  },
+  {
+    "id": "2",
+    "name": "Jane",
+    "age": 30,
+    "gender": "Female",
+    "city": "Los Angeles",
+    "birthDate": "February 4, 1993",
+    "education": "Masters"
+  },
+  {
+    "id": "3",
+    "name": "Michael",
+    "age": 22,
+    "gender": "Male",
+    "city": "Chicago",
+    "birthDate": "September 10, 2000",
+    "education": "PhD"
+  },
+  {
+    "id": "4",
+    "name": "Emily",
+    "age": 28,
+    "gender": "Female",
+    "city": "San Francisco",
+    "birthDate": "May 22, 1995",
+    "education": "Masters"
+  },
+  {
+    "id": "5",
+    "name": "William",
+    "age": 29,
+    "gender": "Male",
+    "city": "Boston",
+    "birthDate": "November 15, 1992",
+    "education": "Bachelors"
+  },
+  {
+    "id": "6",
+    "name": "Olivia",
+    "age": 24,
+    "gender": "Female",
+    "city": "Seattle",
+    "birthDate": "July 18, 1999",
+    "education": "Bachelors"
+  },
+  {
+    "id": "7",
+    "name": "Daniel",
+    "age": 32,
+    "gender": "Male",
+    "city": "Miami",
+    "birthDate": "March 9, 1989",
+    "education": "Masters"
+  },
+  {
+    "id": "8",
+    "name": "Sophia",
+    "age": 27,
+    "gender": "Female",
+    "city": "Austin",
+    "birthDate": "December 29, 1994",
+    "education": "Bachelors"
+  },
+  {
+    "id": "9",
+    "name": "David",
+    "age": 26,
+    "gender": "Male",
+    "city": "Denver",
+    "birthDate": "August 12, 1997",
+    "education": "Masters"
+  },
+  {
+    "id": "10",
+    "name": "Ava",
+    "age": 23,
+    "gender": "Female",
+    "city": "Portland",
+    "birthDate": "October 5, 2000",
+    "education": "Bachelors"
+  }
+]
